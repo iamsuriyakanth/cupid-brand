@@ -2,6 +2,8 @@
 
 **CupidBrand** is an AI-powered personal branding expert for dating profiles. It analyzes a user's personality, vibe, and photos to craft a consistent, attractive, and authentic dating persona across multiple platforms (Tinder, Bumble, Hinge).
 
+👉 **[View Live App](https://cupid-brand.vercel.app/)**
+
 ## ✨ Features
 
 *   **Brand Identity Generation**: Determines your romantic "archetype" (e.g., The Intellectual Adventurer), emotional vibe, and aesthetic color palette.
