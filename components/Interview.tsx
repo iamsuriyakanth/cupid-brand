@@ -1,6 +1,6 @@
 import React, { useState, ChangeEvent } from 'react';
 import { UserInput } from '../types';
-import { Camera, Upload, X, ChevronLeft, ChevronRight, Loader2 } from 'lucide-react';
+import { Camera, X, ChevronLeft, ChevronRight, Loader2 } from 'lucide-react';
 
 interface Props {
   onSubmit: (data: UserInput) => void;
