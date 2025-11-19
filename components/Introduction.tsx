@@ -22,7 +22,7 @@ export const Introduction: React.FC<Props> = ({ onStart }) => {
                     </div>
                 </div>
                 
-                <div>
+                <div className="pt-4 md:pt-6">
                     <h1 className="text-3xl md:text-6xl font-serif font-bold text-slate-900 tracking-tight">
                     CupidBrand
                     </h1>

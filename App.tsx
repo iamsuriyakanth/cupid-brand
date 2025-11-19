@@ -43,7 +43,7 @@ export default function App() {
             <Heart className="w-12 h-12 text-rose-500 animate-pulse" />
           </div>
         </div>
-        <h2 className="mt-8 text-2xl font-serif font-bold text-slate-800">Crafting your romantic brand...</h2>
+        <h2 className="mt-8 text-2xl font-serif font-bold text-slate-800 text-center">Crafting your romantic brand...</h2>
         <p className="mt-2 text-slate-500 text-center max-w-md">
           Analyzing your vibe, reviewing photos, and writing witty bios. 
           This might take a moment.
