@@ -27,13 +27,12 @@ export const Introduction: React.FC<Props> = ({ onStart }) => {
                     CupidBrand
                     </h1>
                     <h2 className="text-sm md:text-2xl text-slate-600 font-light italic mt-6 md:mt-8">
-                    "Your AI Romantic Brand Builder"
+                    "Make Your Dating Profile Impossible to Ignore"
                     </h2>
                 </div>
                 
                 <p className="text-sm md:text-lg text-slate-600 leading-relaxed hidden md:block max-w-2xl mx-auto">
-                Stop guessing what to write. We build a consistent, attractive, and authentic 
-                dating brand tailored to your personality.
+                Stop guessing what to write. We craft a consistent, attractive, and authentic dating profile tailored to your personality.
                 </p>
             </div>
 
@@ -45,7 +44,7 @@ export const Introduction: React.FC<Props> = ({ onStart }) => {
                 </div>
                 <div>
                     <h3 className="font-semibold text-slate-800 text-sm md:text-lg">Bio Rewrites</h3>
-                    <p className="text-[10px] md:text-sm text-slate-500 leading-tight md:leading-normal md:mt-1">Witty, serious, or bold bios tailored to you.</p>
+                    <p className="text-[10px] md:text-sm text-slate-500 leading-tight md:leading-normal md:mt-1">Witty, bold, or classy bios crafted to match your vibe.</p>
                 </div>
               </div>
               
@@ -55,7 +54,7 @@ export const Introduction: React.FC<Props> = ({ onStart }) => {
                 </div>
                 <div>
                     <h3 className="font-semibold text-slate-800 text-sm md:text-lg">Photo Audit</h3>
-                    <p className="text-[10px] md:text-sm text-slate-500 leading-tight md:leading-normal md:mt-1">AI analysis on what to keep or delete.</p>
+                    <p className="text-[10px] md:text-sm text-slate-500 leading-tight md:leading-normal md:mt-1">Know which photos help or hurt your profile.</p>
                 </div>
               </div>
 
@@ -65,7 +64,7 @@ export const Introduction: React.FC<Props> = ({ onStart }) => {
                 </div>
                 <div>
                     <h3 className="font-semibold text-slate-800 text-sm md:text-lg">Smart Targeting</h3>
-                    <p className="text-[10px] md:text-sm text-slate-500 leading-tight md:leading-normal md:mt-1">Attract exactly the type of person you want.</p>
+                    <p className="text-[10px] md:text-sm text-slate-500 leading-tight md:leading-normal md:mt-1">Attract the type of person you genuinely want.</p>
                 </div>
               </div>
             </div>

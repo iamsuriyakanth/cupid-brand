@@ -54,7 +54,7 @@ export const Interview: React.FC<Props> = ({ onSubmit }) => {
     if (e.target.files && e.target.files.length > 0) {
       setIsProcessingImages(true);
       try {
-        const files = Array.from(e.target.files);
+        const files = Array.from(e.target.files) as File[];
         const currentCount = formData.images.length;
         const remainingSlots = 3 - currentCount;
 
